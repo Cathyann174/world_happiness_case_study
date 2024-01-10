@@ -2,7 +2,7 @@ Understanding how happiness is measured
 
 Overview
 
-The goal of the case study was to understand what makes people happy abd how is happiness measured.
+The goal of the case study was to understand what makes people happy and how it is measured.
 
 Data Understanding
 
